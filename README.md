@@ -1,55 +1,36 @@
 # ssyoung1-sprint3
 <img width="472" height="712" alt="image" src="https://github.com/user-attachments/assets/55c35a8c-6416-4e00-bd44-acd3ad42af0b" />
-netflix-film-engagement/
-│
-├── data/
-│   └── netflix_movies.csv
-│
-├── notebooks/
-│   └── netflix_analysis.ipynb
-│
-├── images/
-│   └── popularity_vs_success.png
-│
-├── requirements.txt
-└── README.md
-pandas
-matplotlib
-numpy
-jupyter
-# 🎬 Netflix Film Engagement Analysis
+ssyoung1
+# Hi, I'm Sophia Young 👋
 
-## Project Overview
-This project analyzes Netflix film data to identify which factors contribute most to a movie’s success. Using data mining techniques, the analysis explores relationships between popularity, budget, and viewer ratings.
+🎓 Junior at the University of Iowa studying Business Analytics 
+💻 Interested in data analytics, digital products, and business strategy  
+📍 Based in Iowa City, IA  
 
 ---
 
-## Tools & Technologies
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+## About Me
+I’m a student passionate about combining technology, data, and leadership to solve real-world business problems. Through my coursework, I’ve worked on analytics projects, portfolio websites, and data-driven decision making.
 
 ---
 
-## Project Structure
-- `data/` contains the movie dataset
-- `notebooks/` contains the analysis notebook
-- `images/` contains visualizations used in the analysis
+## Skills
+- Data Analysis (Python, Pandas)
+- Web Development (HTML, CSS, Bootstrap)
+- GitHub & Version Control
+- Google Analytics
+- Business & Product Strategy
 
 ---
 
-## How to Run This Project
-1. Clone the repository  
-2. Install required libraries using:
-4. Run all cells to reproduce the analysis
+## Featured Projects
+📌 Check out my pinned repositories below to see my work!
 
 ---
 
-## Key Insights
-- Popularity shows a strong relationship with film success
-- Budget and vote average also influence performance
-- Visualizations help clearly demonstrate these trends
+📫 **Connect with me**
+- Portfolio: https://ssyoung1.com
+
 
 
 
