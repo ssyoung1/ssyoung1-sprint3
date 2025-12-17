@@ -29,7 +29,7 @@ I’m a student passionate about combining technology, data, and leadership to s
 ---
 
 📫 **Connect with me**
-- Portfolio: https://ssyoung1.com
+- https://www.linkedin.com/in/sophia-s-young/
 
 
 
