@@ -53,4 +53,4 @@ This project analyzes Netflix film data to identify which factors contribute mos
 
 📈 Example Visualization:
 
-![Popularity vs Success](images/popularity_vs_success.png)
+<img src="popularity_vs_success.png">
