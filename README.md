@@ -51,7 +51,5 @@ This project analyzes Netflix film data to identify which factors contribute mos
 - Budget and vote average also influence performance
 - Visualizations help clearly demonstrate these trends
 
-📈 Example Visualization:
 
-<img src="popularity_vs_success.png" alt="Popularity vs Success">
 
